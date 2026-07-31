@@ -9,11 +9,12 @@ export default function AboutStory() {
       <div className="mt-8 space-y-8 text-lg leading-8 text-slate-700">
 
         <p>
-          My interest in female sports medicine began in sixth grade during a
-          capstone project on the Female Sports Medicine where I studied the 
-          impacts of hormones on athlete perfomance and The Female Athlete Triad, 
-          now more broadly recognized within Relative Energy Deficiency in Sport (RED-S).
-        </p>
+  My interest in female sports medicine began in sixth grade during a
+  capstone project on female sports medicine, where I studied the
+  impacts of hormones on athletic performance and the Female Athlete
+  Triad, now more broadly recognized within Relative Energy Deficiency
+  in Sport (RED-S).
+</p>
 
         <p>
           For my project, I designed and conducted a longitudinal study
