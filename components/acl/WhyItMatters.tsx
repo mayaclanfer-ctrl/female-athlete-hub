@@ -12,7 +12,7 @@ export default function WhyItMatters() {
         </h2>
 
         <div className="mt-8">
-          <p className="text-lg leading-8 text-slate-600">
+          <p className="text-lg leading-8 text-slate-750">
             {whyItMatters.description}
           </p>
         </div>
@@ -22,7 +22,7 @@ export default function WhyItMatters() {
             Key Takeaway
           </h3>
 
-          <p className="mt-3 leading-7 text-slate-700">
+          <p className="mt-3 leading-7 text-slate-800">
             Research shows that structured neuromuscular warm-up programs can reduce ACL injuries by over 64% when athletes perform them consistently throughout the season.
           </p>
         </div>

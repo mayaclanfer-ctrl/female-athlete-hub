@@ -32,16 +32,15 @@ export default function Resources() {
               </p>
 
               <div className="mt-6">
-               {resource.action === "expand" && (
-  <a
-    href="/pdfs/captains-project-guide.pdf"
-    target="_blank"
-    rel="noopener noreferrer"
-    className="inline-block rounded-lg bg-sky-600 px-4 py-2 text-white"
-  >
-    {resource.buttonText}
-  </a>
-)}
+
+                {resource.action === "expand" && (
+                  <a
+                    href="/download"
+                    className="inline-block rounded-lg bg-sky-600 px-4 py-2 text-white"
+                  >
+                    {resource.buttonText}
+                  </a>
+                )}
 
                 {resource.action === "link" && (
                   <a
@@ -63,12 +62,11 @@ export default function Resources() {
                     {resource.buttonText}
                   </a>
                 )}
+
               </div>
             </div>
           ))}
         </div>
-
-
       </div>
     </Section>
   );

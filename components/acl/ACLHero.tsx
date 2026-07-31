@@ -1,3 +1,4 @@
+import Link from "next/link";
 import { Download, PlayCircle } from "lucide-react";
 
 import { Button } from "@/components/ui/button";
@@ -12,7 +13,7 @@ export default function ACLHero() {
       style={{
         backgroundImage: "url('/images/acl-hero-blue.png')",
         backgroundSize: "cover",
-       backgroundPosition: "center 15%",
+        backgroundPosition: "center 15%",
       }}
     >
       {/* Dark overlay */}
@@ -33,12 +34,12 @@ export default function ACLHero() {
         </p>
 
         <div className="mt-10 flex flex-col gap-4 sm:flex-row">
-          <a href="/pdfs/captains-project-guide.pdf" download>
+          <Link href="/download">
             <Button size="lg" className="rounded-full px-8">
               <Download className="mr-2 h-5 w-5" />
               {hero.primaryButton}
             </Button>
-          </a>
+          </Link>
 
           <a
             href="https://www.youtube.com/watch?v=2_L05NnCjN8&list=PLIP9hlljY-w0&pp=sAgC"

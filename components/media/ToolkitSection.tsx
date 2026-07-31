@@ -68,19 +68,19 @@ export default function ToolkitSection() {
           </h3>
 
           <p className="mt-6 leading-8 text-slate-600">
-  A comprehensive guide explaining the research behind ACL injury
-  prevention, with step-by-step exercise instructions, proper technique,
-  and progressive variations to safely increase difficulty as athletes
-  improve.
-</p>
+            A comprehensive guide explaining the research behind ACL injury
+            prevention, with step-by-step exercise instructions, proper technique,
+            and progressive variations to safely increase difficulty as athletes
+            improve.
+          </p>
 
           <Link
-            href="/pdfs/captains-project-guide.pdf"
-            target="_blank"
+            href="/download"
             className="mt-10 inline-flex rounded-full bg-[#00AEEF] px-7 py-3 font-semibold text-white transition hover:bg-sky-600"
           >
-            View Guide →
+            Download Guide →
           </Link>
+
         </div>
       </div>
     </section>

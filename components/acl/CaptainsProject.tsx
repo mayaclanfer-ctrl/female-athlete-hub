@@ -17,7 +17,7 @@ export default function CaptainsProject() {
             {captainsProject.title}
           </h2>
 
-          <p className="mt-6 text-lg leading-8 text-slate-600">
+          <p className="mt-6 text-lg leading-8 text-slate-700">
             {captainsProject.description}
           </p>
         </div>

@@ -34,4 +34,9 @@ export default function SectionTitle({
       )}
     </div>
   );
+}import { ReactNode } from "react";
+
+interface SectionProps {
+  children: ReactNode;
+  className?: string;
 }
