@@ -28,14 +28,6 @@ export default function CaptainsProject() {
     </button>
   </Link>
 </div>
-<div className="mt-8">
-  <Link
-    href="/schedule-workshop"
-    className="inline-flex items-center rounded-full bg-sky-600 px-6 py-3 text-base font-semibold text-white transition hover:bg-sky-700"
-  >
-    Schedule a Free Workshop
-  </Link>
-</div>
         </div>
 
         <div className="rounded-3xl bg-white p-8 shadow-sm ring-1 ring-slate-200">

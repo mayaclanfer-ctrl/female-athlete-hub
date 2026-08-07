@@ -5,9 +5,9 @@ export default function YouTubeSection() {
     <section className="py-24">
       <div className="rounded-3xl bg-slate-50 p-12">
 
-        <p className="text-sm font-semibold uppercase tracking-[0.35em] text-[#00AEEF]">
-          YouTube
-        </p>
+<p className="text-lg font-semibold uppercase tracking-[0.25em] text-[#00AEEF]">
+  YouTube
+</p>
 
         <h2 className="mt-4 text-4xl font-bold">
           Educational Videos

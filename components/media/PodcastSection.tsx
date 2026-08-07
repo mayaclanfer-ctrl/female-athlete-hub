@@ -6,9 +6,9 @@ export default function PodcastSection() {
 
       <div className="rounded-3xl border border-[#00AEEF]/20 bg-[#00AEEF]/5 p-12">
 
-        <p className="text-sm font-semibold uppercase tracking-[0.35em] text-[#00AEEF]">
-          Featured Podcast
-        </p>
+       <p className="text-lg font-semibold uppercase tracking-[0.25em] text-[#00AEEF]">
+  Featured Podcast
+</p>
 
         <h2 className="mt-4 text-4xl font-bold">
           ACL Injury Prevention for Female Athletes
