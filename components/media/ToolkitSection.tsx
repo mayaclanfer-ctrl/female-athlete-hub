@@ -3,7 +3,7 @@ import { FileText } from "lucide-react";
 
 export default function ToolkitSection() {
   return (
-    <section className="py-28">
+    <section className="py-16">
       <div className="text-center">
         <p className="text-sm font-semibold uppercase tracking-[0.35em] text-[#00AEEF]">
           Captain's Project

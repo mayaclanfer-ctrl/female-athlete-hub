@@ -2,7 +2,7 @@ import Link from "next/link";
 
 export default function PodcastSection() {
   return (
-    <section className="py-24">
+    <section className="py-16">
 
       <div className="rounded-3xl border border-[#00AEEF]/20 bg-[#00AEEF]/5 p-12">
 

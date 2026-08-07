@@ -2,7 +2,7 @@ import Link from "next/link";
 
 export default function YouTubeSection() {
   return (
-    <section className="py-24">
+    <section className="py-16">
       <div className="rounded-3xl bg-slate-50 p-12">
 
 <p className="text-lg font-semibold uppercase tracking-[0.25em] text-[#00AEEF]">
