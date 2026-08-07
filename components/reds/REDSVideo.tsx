@@ -7,7 +7,7 @@ export default function REDSVideo() {
         </p>
 
         <h2 className="mt-4 text-5xl font-bold text-slate-900">
-          Understanding RED-S in 60 Seconds
+          Understanding The Female Athlete Triad in 60 Seconds
         </h2>
 
         <p className="mx-auto mt-6 max-w-3xl text-lg leading-8 text-slate-600">

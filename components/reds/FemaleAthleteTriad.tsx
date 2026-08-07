@@ -23,9 +23,9 @@ export default function FemaleAthleteTriad() {
   return (
     <section className="py-24">
       <div className="text-center">
-        <p className="text-sm font-semibold uppercase tracking-[0.35em] text-[#00AEEF]">
-          The Female Athlete Triad
-        </p>
+       <p className="text-lg font-semibold uppercase tracking-[0.25em] text-[#00AEEF]">
+  Female Athlete Triad
+</p>
 
         <h2 className="mt-4 text-5xl font-bold text-slate-900">
           Three Closely Connected Conditions
