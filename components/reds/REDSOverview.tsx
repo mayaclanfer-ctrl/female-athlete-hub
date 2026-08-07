@@ -2,7 +2,7 @@ import Image from "next/image";
 
 export default function REDSOverview() {
   return (
-    <section className="py-24">
+    <section className="pt-12 pb-24">
       <div className="grid lg:grid-cols-2 gap-16 items-center">
 
         {/* Text */}

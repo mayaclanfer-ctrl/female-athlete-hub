@@ -36,28 +36,6 @@ export default function REDSHero() {
         </div>
       </div>
 
-      {/* Existing Content */}
-      <div className="mx-auto max-w-5xl px-6 text-center">
-        <div className="mx-auto max-w-2xl rounded-3xl border-2 border-[#00AEEF]/20 bg-[#00AEEF]/5 p-10 shadow-sm">
-          <p className="text-4xl font-bold text-[#00AEEF] md:text-5xl">
-            RED-S can affect nearly every organ system in the body.
-          </p>
-
-          <p className="mt-5 text-lg leading-8 text-slate-700">
-            When athletes consistently consume less energy than they expend,
-            their bodies begin conserving energy by reducing normal
-            physiological functions.
-          </p>
-        </div>
-
-        <p className="mx-auto mt-10 max-w-4xl text-lg leading-8 text-slate-600">
-          RED-S can influence athletic performance, recovery, bone health,
-          hormones, metabolism, immune function, cardiovascular health, and
-          psychological well-being. Understanding RED-S helps athletes
-          recognize warning signs early and fuel their bodies for long-term
-          health and performance.
-        </p>
-      </div>
-    </section>
+          </section>
   );
 }
