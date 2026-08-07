@@ -1,3 +1,4 @@
+import Link from "next/link";
 import { CheckCircle2 } from "lucide-react";
 
 import { aclContent } from "@/content/acl";
@@ -17,9 +18,24 @@ export default function CaptainsProject() {
             {captainsProject.title}
           </h2>
 
-          <p className="mt-6 text-lg leading-8 text-slate-700">
-            {captainsProject.description}
-          </p>
+         <p className="mt-6 text-lg leading-8 text-slate-700">
+  {captainsProject.description}
+</p>
+<div className="mt-8">
+  <Link href="/training">
+    <button className="rounded-full bg-sky-600 px-7 py-3 font-semibold text-white shadow-md transition-all hover:bg-sky-700 hover:shadow-lg">
+      Request a Free Workshop
+    </button>
+  </Link>
+</div>
+<div className="mt-8">
+  <Link
+    href="/schedule-workshop"
+    className="inline-flex items-center rounded-full bg-sky-600 px-6 py-3 text-base font-semibold text-white transition hover:bg-sky-700"
+  >
+    Schedule a Free Workshop
+  </Link>
+</div>
         </div>
 
         <div className="rounded-3xl bg-white p-8 shadow-sm ring-1 ring-slate-200">
