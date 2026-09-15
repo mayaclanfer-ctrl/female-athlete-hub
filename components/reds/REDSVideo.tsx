@@ -20,7 +20,7 @@ export default function REDSVideo() {
           <div className="aspect-[9/16] w-full max-w-sm overflow-hidden rounded-3xl shadow-2xl">
             <iframe
               className="h-full w-full"
-              src="https://www.youtube.com/embed/KBrajpAHcnM"
+              src="https://www.youtube.com/shorts/KBrajpAHcnM"
               title="Understanding RED-S"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
               allowFullScreen

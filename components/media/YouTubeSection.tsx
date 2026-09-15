@@ -20,7 +20,7 @@ export default function YouTubeSection() {
         </p>
 
         <Link
-          href="https://www.youtube.com/@MayaLanfer"
+          href="https://www.youtube.com/@FemaleAthleteHub"
           target="_blank"
           className="mt-10 inline-flex rounded-full bg-[#00AEEF] px-8 py-4 font-semibold text-white hover:bg-sky-600 transition"
         >

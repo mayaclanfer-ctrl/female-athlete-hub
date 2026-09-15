@@ -44,7 +44,7 @@ export default function DownloadPage() {
   return (
     <section className="mx-auto max-w-3xl px-6 py-24">
       <h1 className="text-5xl font-black text-slate-900">
-        Download the ACL Prevention Guide
+        Download the ACL Injury Prevention Guide
       </h1>
 
       <p className="mt-6 text-lg leading-8 text-slate-600">

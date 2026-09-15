@@ -17,7 +17,7 @@ export default function VideoSection() {
       <div className="mt-12 mx-auto max-w-3xl overflow-hidden rounded-3xl shadow-xl">
         <iframe
           className="w-full aspect-video"
-          src="https://www.youtube.com/embed/doJlq20kz1E"
+          src="https://www.youtube.com/shorts/doJlq20kz1E"
           title="Youth Sports Specialization"
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
           allowFullScreen

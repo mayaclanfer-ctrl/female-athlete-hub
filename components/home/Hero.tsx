@@ -49,13 +49,13 @@ export default function Hero() {
     size="lg"
     className="rounded-full px-8"
   >
-    Explore ACL Prevention
+    Explore ACL Injury Prevention
     <ArrowRight className="ml-2 h-5 w-5" />
   </Button>
 </Link>
 
  <a
-  href="https://www.youtube.com/@MayaLanfer"
+  href="https://www.youtube.com/@FemaleAthleteHub"
   target="_blank"
   rel="noopener noreferrer"
 >

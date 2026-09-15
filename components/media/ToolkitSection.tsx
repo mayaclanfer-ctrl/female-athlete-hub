@@ -34,7 +34,7 @@ export default function ToolkitSection() {
           </span>
 
           <h3 className="mt-5 text-3xl font-bold text-slate-900">
-            ACL Prevention Flyer
+            ACL Injury Prevention Flyer
           </h3>
 
           <p className="mt-6 leading-8 text-slate-600">

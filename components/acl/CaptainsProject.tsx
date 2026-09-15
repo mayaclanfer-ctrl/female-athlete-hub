@@ -24,7 +24,7 @@ export default function CaptainsProject() {
 <div className="mt-8">
   <Link href="/training">
     <button className="rounded-full bg-sky-600 px-7 py-3 font-semibold text-white shadow-md transition-all hover:bg-sky-700 hover:shadow-lg">
-      Request a Free Workshop
+      Request a Free ACL Injury Prevention Training
     </button>
   </Link>
 </div>

@@ -1,3 +1,4 @@
+```tsx
 import Link from "next/link";
 import { Download, PlayCircle } from "lucide-react";
 
@@ -35,7 +36,10 @@ export default function ACLHero() {
 
         <div className="mt-10 flex flex-col gap-4 sm:flex-row">
           <Link href="/download">
-            <Button size="lg" className="rounded-full px-8">
+            <Button
+              size="lg"
+              className="rounded-full px-8 py-4 text-lg"
+            >
               <Download className="mr-2 h-5 w-5" />
               {hero.primaryButton}
             </Button>
@@ -49,7 +53,7 @@ export default function ACLHero() {
             <Button
               variant="secondary"
               size="lg"
-              className="rounded-full"
+              className="rounded-full px-8 py-4 text-lg"
             >
               <PlayCircle className="mr-2 h-5 w-5" />
               {hero.secondaryButton}
@@ -60,3 +64,4 @@ export default function ACLHero() {
     </section>
   );
 }
+```

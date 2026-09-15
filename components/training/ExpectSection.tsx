@@ -18,7 +18,7 @@ export default function ExpectSection() {
           <div>✓ Live exercise demonstrations</div>
           <div>✓ Proper exercise technique</div>
           <div>✓ Progressive exercise variations</div>
-          <div>✓ Research behind ACL prevention</div>
+          <div>✓ Research behind ACL Injury prevention</div>
           <div>✓ Teaching and implementation strategies</div>
           <div>✓ Time for questions</div>
           <div>✓ Free educational resources</div>

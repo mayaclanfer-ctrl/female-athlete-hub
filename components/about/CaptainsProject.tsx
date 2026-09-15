@@ -30,7 +30,7 @@ export default function CaptainsProject() {
           <ul className="mt-6 space-y-2 text-slate-700">
             <li>✓ High school teams</li>
             <li>✓ Team captain leadership workshops</li>
-            <li>✓ Evidence-based ACL prevention warm-ups</li>
+            <li>✓ Evidence-based ACL injury prevention warm-ups</li>
             <li>✓ Coach and athlete education</li>
           </ul>
 
