@@ -1,4 +1,3 @@
-```tsx
 import Link from "next/link";
 import { Download, PlayCircle } from "lucide-react";
 
@@ -64,4 +63,3 @@ export default function ACLHero() {
     </section>
   );
 }
-```
